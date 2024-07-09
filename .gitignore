@@ -1,0 +1,6 @@
+# Python
+dexscreener-scraper-tg-bot/
+__pycache__/
+
+# Driver
+downloaded_files/
