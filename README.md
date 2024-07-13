@@ -12,6 +12,13 @@
     - Use command **_git clone https://github.com/Mercy231/dexscreener-scraper-tg-bot_**
 5. Open terminal in project location
 6. Run command: **_pip install -r requirements.txt_**
+
+**6.1. If got any issues with requirements:**
+Run: **_pip install python-dotenv_**
+Run: **_pip install aiogram_**
+Run: **_pip install seleniumbase_**
+Run: **_pip install lxml_**
+
 7. Create new Telegram bot with [BotFather](https://t.me/BotFather)
 8. Open file **_.env_** and replace your bot token
 
